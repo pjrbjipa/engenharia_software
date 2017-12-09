@@ -7,7 +7,7 @@ package regrasDeNegocio;
 
 /**
  *
- * @author 66546125234
+
  */
 public class Agendamento {
     private int idRegistro; //número do Registro
